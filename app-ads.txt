@@ -1,1 +1,3 @@
+OWNERDOMAIN=netanel84.github.io
 google.com, pub-3549782024684247, DIRECT, f08c47fec0942fa0
+ironsrc.com, 679865, DIRECT
